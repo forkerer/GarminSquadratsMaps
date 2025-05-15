@@ -1,3 +1,5 @@
+![Watch example 1](assets/watch1.jpg =50%x) ![Watch example 2](assets/watch2.jpg =50%x)
+
 # Garmin Squadrats maps
 This repository contains a collection of maps that display Squadrats grid on supported Garmin devices. They are designed for newer devices that can use multiple maps at the same time - they are only an overlay layer that will be displayed on top of any other map. The maps contain only Squadrats layer - Squadrathinhos are skipped, but I may come back to them later for much smaller regions. The maps cover the countries for which they were generated, and a few kilometres around the border.
 
