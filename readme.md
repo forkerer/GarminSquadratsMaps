@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/forkerer/GarminSquadratsMaps/refs/heads/main/Assets/watch1.jpg" width=40%>
 <img src="https://raw.githubusercontent.com/forkerer/GarminSquadratsMaps/refs/heads/main/Assets/watch2.jpg" width=40%>
 </p>
+
 # Garmin Squadrats maps
 This repository contains a collection of maps that display Squadrats grid on supported Garmin devices. They are designed for newer devices that can use multiple maps at the same time - they are only an overlay layer that will be displayed on top of any other map. The maps contain only Squadrats layer - Squadrathinhos are skipped, but I may come back to them later for much smaller regions. The maps cover the countries for which they were generated, and a few kilometres around the border.
 
