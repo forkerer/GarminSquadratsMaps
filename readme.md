@@ -13,7 +13,7 @@ This repository contains a collection of maps that display Squadrats grid on sup
 The maps are installed the same way as all other .IMG maps - for exact instructions see
 
 # Credits
-- squadrats.com - For creating the terrain game in the first place
+- https://squadrats.com - For creating the terrain game in the first place
 - https://github.com/leakyMirror/map-of-europe - The boundaries for the countries are taken from there
 - https://github.com/NetTopologySuite/NetTopologySuite - Used for all the geometry processing used to generate the maps
-- openstreetmap.org
+- https://openstreetmap.org
