@@ -10,7 +10,7 @@
 This repository contains a collection of maps that display Squadrats grid on supported Garmin devices. They are designed for newer devices that can use multiple maps at the same time - they are only an overlay layer that will be displayed on top of any other map. The maps contain only Squadrats layer - Squadrathinhos are skipped, but I may come back to them later for much smaller regions. The maps cover the countries for which they were generated, and a few kilometres around the border.
 
 # Installation
-The maps are installed the same way as all other .IMG maps - for exact instructions see
+The maps are installed the same way as all other .IMG maps - for exact instructions see https://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin/Download
 
 # Credits
 - https://squadrats.com - For creating the terrain game in the first place
