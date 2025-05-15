@@ -1,3 +1,6 @@
+> [!CAUTION]  
+> This project is not supported or endorsed by Squadrats.com. It is intended for personal use only and is not to be used for financial gain. The creator takes no responsibility for any consequences that may arise from its use.
+
 <p float="left">
 <img src="https://raw.githubusercontent.com/forkerer/GarminSquadratsMaps/refs/heads/main/Assets/watch1.jpg" width=40%>
 <img src="https://raw.githubusercontent.com/forkerer/GarminSquadratsMaps/refs/heads/main/Assets/watch2.jpg" width=40%>
